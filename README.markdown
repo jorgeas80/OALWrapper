@@ -7,6 +7,13 @@ Read through the TODO file for various known things that should be cleaned up / 
 
 Included are project files for Xcode, Cmake (for Linux).
 
+Important
+---------
+
+If you want to compile Penumbra: Overture, don't use a commit newer than this one: https://github.com/jorgeas80/OALWrapper/commit/ae59c6d7bd476d4d5c7e4a6cd3323a48ed1a6c9c
+
+The OALWrapper was updated after that commit, to fit into different projects, and cause compilation problems
+
 Contributing Code
 -----------------
 We encourage everyone to contribute code to this project, so just sign up for a github account, create a fork and hack away at the codebase. We will start an Open Source forum on the Frictional Games forums as a place to talk about changes and to submit patches from your forks.
